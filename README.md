@@ -10,6 +10,7 @@ Features:
     asteroids drop minerals that we can collect
     minerals can be used to upgrade the ship hull and fitting
     what fitting we can use depends on the hull our ship has
+    hull integrity and shield effect how long the ship survive a collision
     save best score and state of the game with all the minerals and upgrades you have
 
 The source is available for the following engines:
